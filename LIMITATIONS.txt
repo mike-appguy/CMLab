@@ -1,0 +1,34 @@
+CM LAB 3.1 RC1 - LIMITATIONS AND SUPPORT
+
+Tested against the supported native CM 01/02 compressed/uncompressed save layouts.
+Development fixtures include a modern database and Nick's Patcher career. Every
+patch, database size, language and executable variant has not been certified.
+Unsupported or inconsistent layouts should be rejected without replacing a
+previous successful import. A successful import does not verify every displayed
+field against every patched game.
+
+Reputation uses the existing 0-10000 scouting scale, not a newly verified engine
+limit. Intrinsic attribute conversion is the shared CM Lab 1-20 scale. LabLogic
+and TonTon are experimental scouting models, not predictions or proven exploit
+ratings. PA headroom is not a growth forecast. Missing values remain unknown.
+
+Training is advisory and must be applied manually. Actual in-game routines,
+condition, injuries and playing minutes are not reliably decoded. Recorded
+Applied entries mean the user confirmed an action, not automatic game editing.
+
+Regen matches are reused slots, not a biological link. First seen is the earliest
+known imported save date, not a verified creation date. Career continuity checks
+are safeguards; separate careers using the same database can share identities.
+Use separate history names. Very long careers with extensive identity turnover
+may require review of continuity thresholds.
+
+Backups cover cmlab-* local records plus the current saved import/history.
+Temporary unsaved filters and comparison selections are not permanent data.
+Browser quotas and private-mode restrictions still apply. A checksum protects
+against accidental backup changes, not against a maliciously crafted file.
+No automatic uploading, telemetry, account service or auto-updater is provided.
+App appearance and launcher first-run require live Windows verification.
+
+REPORTING: give the distributor CM Lab 3.1 RC1, Windows/Edge version, in-game
+version, database/patch setup, save date, action and exact error. Keep a backup.
+Share private save/backup files only deliberately; the app never submits them.

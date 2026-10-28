@@ -1,0 +1,22 @@
+CM LAB - COMMUNITY AND RESEARCH REFERENCES
+
+CM Lab is an unofficial companion. Championship Manager and third-party project
+names belong to their respective owners. No affiliation or endorsement is claimed.
+No game executable, game database, crest pack, player save or browser profile is
+included in this release.
+
+Research and reference tools acknowledged by this project:
+- CM Scout and the CM 01/02 scouting community
+- GPF2 and slot-based regen tracking
+- CM Scout Intrinsic Community:
+  https://github.com/MScientistCM/CMScoutIntrinsicCommunity
+- CM0102 research and benchmarking projects:
+  https://github.com/agevak/CM0102
+  https://github.com/agevak/CM0102PlayerBenchmarker
+- Championship Manager 01/02 community forum guides and the original manual
+
+TonTon is named in appreciation of Tonton Zola Moukoko and the search for similarly
+memorable players. Model weights remain experimental. The source audit records that external formula code, benchmark coefficients and
+research datasets are not incorporated into the generated app. Research copies
+remain outside the release. Future direct third-party implementation or dataset
+reuse requires its own permission/licence review; references are not licences.

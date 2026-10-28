@@ -1,0 +1,8 @@
+3.1 RC1
+- Welcome/help screen with first-run actions, feature guide, limitations and credits.
+- Optional startup preference and return-to-workspace action.
+- Career-specific persistent regen references. Existing personal reference retained.
+- Public runtime generated with no embedded player/career data.
+- Clean allowlisted package, launcher integrity manifest and file checksums.
+- Existing V3 design, standalone window, complete backup/restore, first-seen regen
+  tracking, contracts, training history and unified Best XI/tactic editor retained.

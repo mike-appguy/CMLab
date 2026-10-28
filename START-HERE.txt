@@ -1,0 +1,43 @@
+CM LAB 3.1 RC1 - RELEASE CANDIDATE
+================================
+An unofficial local companion for Championship Manager 01/02.
+
+INSTALL / FIRST RUN
+1. Extract the entire ZIP to a permanent folder, for example C:\CM Lab.
+   Do not run it inside the ZIP. Do not move the folder after starting a career.
+2. Double-click CM Lab.cmd. Microsoft Edge must be installed on Windows.
+3. The welcome screen explains getting started. Load your own .sav, then choose
+   your Managed club. This package contains no players, database or saved career.
+4. Optionally run Create CM Lab Shortcut.cmd for a desktop shortcut.
+
+ALREADY USING CM LAB?
+Use your existing app address to download Workspace & backup > Complete backup
+BEFORE replacing files or moving between browsers/profiles. Keep that download.
+Update in the same folder and keep the same app profile. Do not clear app data.
+When moving profiles/computers, open Workspace & backup in the new app and restore
+that .cmlab file. Confirm history, training, shortlist and tactics before removing
+anything from the old workspace. Refresh the old app to the current build before
+exporting, so its legacy regen reference is retained in the backup.
+
+WHAT'S INCLUDED
+CM_Lab_v0.3.html is the current 3.1 RC1 app; the filename is deliberately stable.
+CM Lab.cmd and desktop/ open it in a separate Edge app window without normal tabs.
+This is a local web-app launcher, not a hosted website or a bundled native EXE.
+It requires no account or subscription. The app itself works offline.
+
+DATA
+The app profile is stored under %LOCALAPPDATA%\CM Lab\WebProfile.
+No game files are changed. Save files are read only; an imported copy is retained
+in app storage. Use complete workspace backups regularly. Clearing browser data,
+private mode, a different profile, moving the HTML or uninstalling profile data
+can make local records unavailable. The latest 12 development snapshots per
+career are retained; regen reference/first-seen tracking is stored separately.
+
+REGENS / DIFFERENT CAREERS
+The first imported save establishes that career's reference. Import later saves
+into the same history to detect reused slots. CM Lab cannot reconstruct a career's
+regens from before its reference save. Create/select a separate career history
+under Training > Development Tracking before importing a different career.
+
+READ LIMITATIONS.txt and CREDITS.txt. This is an RC awaiting broader live testing.
+No save/profile files or personal training history are bundled.
