@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0-rc.1",
+  "version": "3.1.0-rc.2",
   "entry": "CM_Lab_v0.3.html",
   "runtime": "Microsoft Edge app window",
-  "htmlSha256": "81f466c6bdd10e2d92ca90a0f7a4c9b4fe568d0676364d2611438072630af02d"
+  "htmlSha256": "9844a7268cdcdc4efacddd6361c1b778dd64bb4bb19aa3d8ddfb415202e7c8d2"
 }

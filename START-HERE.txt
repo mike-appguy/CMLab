@@ -1,4 +1,4 @@
-CM LAB 3.1 RC1 - RELEASE CANDIDATE
+CM LAB 3.1 RC2 - RELEASE CANDIDATE
 ================================
 An unofficial local companion for Championship Manager 01/02.
 
@@ -20,7 +20,7 @@ anything from the old workspace. Refresh the old app to the current build before
 exporting, so its legacy regen reference is retained in the backup.
 
 WHAT'S INCLUDED
-CM_Lab_v0.3.html is the current 3.1 RC1 app; the filename is deliberately stable.
+CM_Lab_v0.3.html is the current 3.1 RC2 app; the filename is deliberately stable.
 CM Lab.cmd and desktop/ open it in a separate Edge app window without normal tabs.
 This is a local web-app launcher, not a hosted website or a bundled native EXE.
 It requires no account or subscription. The app itself works offline.

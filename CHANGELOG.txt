@@ -1,3 +1,9 @@
+3.1 RC2
+- Cache league comparison distributions once per position in TonTon.
+- Large-save performance fix; scoring formulas and thresholds unchanged.
+- Tested import and TonTon against a 97,684-player save. Initial analysis may
+  still take tens of seconds on large saves.
+
 3.1 RC1
 - Welcome/help screen with first-run actions, feature guide, limitations and credits.
 - Optional startup preference and return-to-workspace action.

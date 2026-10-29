@@ -1,4 +1,4 @@
-CM LAB 3.1 RC1 - LIMITATIONS AND SUPPORT
+CM LAB 3.1 RC2 - LIMITATIONS AND SUPPORT
 
 Tested against the supported native CM 01/02 compressed/uncompressed save layouts.
 Development fixtures include a modern database and Nick's Patcher career. Every
@@ -29,6 +29,6 @@ against accidental backup changes, not against a maliciously crafted file.
 No automatic uploading, telemetry, account service or auto-updater is provided.
 App appearance and launcher first-run require live Windows verification.
 
-REPORTING: give the distributor CM Lab 3.1 RC1, Windows/Edge version, in-game
+REPORTING: give the distributor CM Lab 3.1 RC2, Windows/Edge version, in-game
 version, database/patch setup, save date, action and exact error. Keep a backup.
 Share private save/backup files only deliberately; the app never submits them.
