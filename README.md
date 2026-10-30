@@ -40,3 +40,5 @@ Open an issue with the CM Lab version, game version, database/patch setup, save 
 This repository contains the clean public runtime and its launchers. The generated HTML includes the app's JavaScript and styling. Personal development history, player baselines, recovery files and browser profiles are intentionally excluded.
 
 CM Lab is unofficial and is not affiliated with the game's creators. See CREDITS.txt for community research acknowledgements.
+
+Read [LabLogic calculation and positional weights](LABLOGIC.md) for the current formula, conversion, familiarity mapping and full weight tables.
