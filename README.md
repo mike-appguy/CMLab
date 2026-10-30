@@ -4,7 +4,7 @@ A local companion for **Championship Manager 01/02**, built from years of playin
 
 ## Download
 
-Download **CM-Lab-3.1-RC2.zip** from [Releases](https://github.com/mike-appguy/CMLab/releases). Extract it to a permanent folder and double-click **CM Lab.cmd**. Windows and Microsoft Edge are required. No account or subscription is needed to use CM Lab.
+Download **CM-Lab-3.2-RC7.zip** from [Releases](https://github.com/mike-appguy/CMLab/releases). Extract it to a permanent folder and double-click **CM Lab.cmd**. Windows and Microsoft Edge are required. No account or subscription is needed to use CM Lab.
 
 CM Lab opens in its own Edge app window without normal browser tabs or an address bar. It works locally and offline. **It never edits your game save or installation.**
 
@@ -25,7 +25,7 @@ Load your own `.sav`; no players, personal careers or databases are bundled. The
 
 Use **Workspace & backup** regularly. Before changing browser/profile, computer or app location, download a complete `.cmlab` backup and restore it in the new workspace. Keep the original until you have verified the transfer. Never upload private saves or workspace backups to public issues.
 
-The historical filename `CM_Lab_v0.3.html` is retained for storage continuity; the visible version is **3.1 RC2**. Keep your installation folder stable when updating.
+The historical filename `CM_Lab_v0.3.html` is retained for storage continuity; the visible version is **3.2 RC7**. Keep your installation folder stable when updating.
 
 ## Release status
 
@@ -41,4 +41,6 @@ This repository contains the clean public runtime and its launchers. The generat
 
 CM Lab is unofficial and is not affiliated with the game's creators. See CREDITS.txt for community research acknowledgements.
 
-Read [LabLogic calculation and positional weights](LABLOGIC.md) for the current formula, conversion, familiarity mapping and full weight tables.
+Read the [calculation guide index](docs/calculations/README.md) for LabLogic, TonTon, Coaching, Best XI, Training, Find the next, Recruitment and Nation/regen methods. The [LabLogic guide](docs/calculations/LabLogic.md) includes the full positional weight tables.
+
+Nation now has its own senior/U21/U19 XIs and substitutes, positional depth and PA-led prospects. Club and nation tactics use preset or Custom shapes with Save & apply. Searchable selectors support name lookup, and advanced scouting filters wait for Apply.

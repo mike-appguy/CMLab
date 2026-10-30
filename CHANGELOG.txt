@@ -1,3 +1,53 @@
+3.2 RC7 - public release candidate
+- Includes the dedicated Nation workspace, eligibility corrections and free tactics.
+- Club and nation searchable dropdowns; direct preset/custom formation selection.
+- Custom Save & apply closes either tactic editor; Edit tactic reopens it.
+- Apply-only advanced scouting filters and shared short/full club lookup.
+- Calculation guides under docs/calculations, with legacy LabLogic link retained.
+- Keeps existing runtime filename, career histories and storage namespaces.
+
+3.2 RC6
+- Nation selector uses integrated search by name/code.
+- Formation presets apply immediately; Custom opens position editing and is
+  retained with the saved shape. Removed the extra starting-shape action.
+
+3.2 RC5
+- Integrated searchable managed-club dropdown, with short/full name details,
+  common abbreviation matching, immediate results and keyboard navigation.
+- Club catalogue cached per import; selection changes only on explicit choice.
+
+3.2 RC4
+- Managed club selector displays saved short names and searches full/short
+  names, country and league, retaining stable club identities.
+- Advanced scouting edits stay pending until Apply; no live player scans.
+- LabLogic calculation, attribute conversion and full positional weights documented.
+
+3.2 RC3
+- Free-position national tactic editor: click/add/remove and drag/click to move,
+  five lanes across every line including sweepers; ten outfield positions + GK.
+- Shapes retained separately by nation and career, without changing club tactics.
+- Capped players excluded from second-nationality pools, using saved caps for
+  their primary nation. Uncapped dual nationals remain provisional candidates.
+- Eligibility review shows players excluded for representing another nation.
+- Verified actual Rayan, Musiala, Gabriel and Khusanov exclusions from England.
+
+3.2 RC2
+- Dedicated Nation sidebar section, separate from My Club and scouting filters.
+- Independent nation and formation selectors. Primary/second-nationality pool.
+- Senior, under-21 and under-19 best XIs plus seven unique substitutes, ranked
+  by position-specific LabLogic. Ages use the loaded save date.
+- Nation Depth by pitch position and sortable, filtered PA-led Nation Future.
+- Exclusions and eligibility notes kept inside the Nation workspace.
+- Club selection, club tactics, training and global scouting remain independent.
+
+3.2 RC1
+- Different-career imports offer matching histories or a new history directly.
+- Cancel/failed storage preserves the current save and separate career records.
+- Club/nation selector supports nationality-based squad, depth and Best XI pools.
+- Nation mode scopes Search, TonTon, replacements, opportunities and Find next.
+- Primary/second nationality supported; unavailable players can be excluded and
+  restored locally. Full eligibility/international retirement remain unverified.
+
 3.1 RC2
 - Cache league comparison distributions once per position in TonTon.
 - Large-save performance fix; scoring formulas and thresholds unchanged.

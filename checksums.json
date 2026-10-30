@@ -1,13 +1,23 @@
 {
-  "CHANGELOG.txt": "ad9281a30277725bf7fb342a5e53a3d0f99754e0dcd210ca66130f9d2799f0cd",
+  "CHANGELOG.txt": "cef7d05e278939b4c31294efd74a1436b1089361615379bca6e7cb73b52b43df",
   "CM Lab.cmd": "d6bb6b344557e8bb7f9717ae5bce195ca7ff07527f62c52c1353db70a0943ac0",
-  "CM_Lab_v0.3.html": "9844a7268cdcdc4efacddd6361c1b778dd64bb4bb19aa3d8ddfb415202e7c8d2",
+  "CM_Lab_v0.3.html": "4b9e18c1ab4deeddd4611f32a01aa0fa1fc25b56c6d6f1654bb71e11f72cef9f",
   "CREDITS.txt": "9a956425ff7de0c3b29883b6a0b997945902919c78e42018a7dfe183a0bfd052",
   "Create CM Lab Shortcut.cmd": "fdff4b9652544757181634da2bae3729ab8d5d4042654e2b9284553f5447d288",
-  "LIMITATIONS.txt": "82a9f232e37190f68a813a0a2ae56dd96d99c019cb601f513b4ae2fd486c5cc5",
-  "START-HERE.txt": "0959216ee6a1f21620d01f68cc79c01e7e67f1566c476a7aa01659147777cede",
+  "LABLOGIC.md": "64d14d4cc43acdf3a122408b420420a0db77ae0dfa60f396e6e2eeb14885fc31",
+  "LIMITATIONS.txt": "cc15fb103f18a3cea0a23a62c280c1582f060ee5fa18c1b92321a4de87946146",
+  "START-HERE.txt": "24554bdcd8e995ae4fd912f456562bf9439d3eb0d279044eefae362a83b486c0",
   "desktop/CM-Lab.ico": "60cdffe73dae969655b23bf6079dc09f73e61bcf80e2bda303352ad2a4b3d899",
   "desktop/Install-Shortcut.ps1": "4a0bb06f319d3b3c37feffb49cd9fb7bcc7691cfcb6a99431e9cebc7bac6172b",
   "desktop/Start-CMLab.ps1": "aa8169fabed083b8efab41651b01280f364cbf0d9d29d2c109b271ab81b8e6e6",
-  "desktop/app-manifest.json": "b78cd55c285a2565b279ce992d21bc77f54dcc778d1eba24fd2e77c7b75e4051"
+  "desktop/app-manifest.json": "12548a84351cf0db750666dbee679f66f7d2dbbd5bfd8220e178a15491babdab",
+  "docs/calculations/BestXI.md": "0de9128edabe7adb1842b7c71e987ec69a75e912a2013ffc49a1b3cf1e88e47c",
+  "docs/calculations/Coaching.md": "b70b7810959ccd2a4fb186a7f822f0106741b5cdc199b27a51e65fd9701d17fc",
+  "docs/calculations/FindNext.md": "f3922d447582caee25893b944a84f3a2c29191c375740f0a30bad7306cec6789",
+  "docs/calculations/LabLogic.md": "78d64993407999093a71531f2ac80d519553b5a15b626f981e491be8da57b488",
+  "docs/calculations/NationAndRegens.md": "252921497f29cb4ca6f198163f6ddfa22bf1a327f6428acc49a6c0123545c0cf",
+  "docs/calculations/README.md": "75c31afbd9a6a89d9cf6c064a2875cb7d5d8d1f16b6ab271543c7b3d5235b41e",
+  "docs/calculations/Recruitment.md": "de69128ddbe04d66e5241c9447e808e28a9dae6da8fd2004ef4b41077c84857f",
+  "docs/calculations/TonTon.md": "27f438eea0a916068dd81cb7d297c384cbe6228483d6971cc44af73637ca9231",
+  "docs/calculations/Training.md": "a3ee85607ed082fb5fbef046f0d53d6ed7331a9db6eec1f05bed0b4443f244aa"
 }
