@@ -91,3 +91,13 @@ These are the detailed profile positions. Wing-back variants use the LWB/RWB rec
 ## Scope and feedback
 
 LabLogic is not TonTon's TT2 Monster score, Find the next style similarity, a growth forecast or a guarantee of match performance. Those features have separate purposes. Individual roles, instructions, tactics, opponents, condition and hidden engine behaviour can affect results. This file documents the implemented weights; suggestions and alternative sets are welcome through [GitHub Issues](https://github.com/mike-appguy/CMLab/issues). Please distinguish personal experience, controlled testing and proposed modelling assumptions when sharing evidence.
+
+## Player Search and profiles (3.3)
+
+Player profiles and the squad table show the highest known natural-position
+LabLogic. The profile also names that position. Player Search has one canonical
+LabLogic column beside CA/PA: the main pitch-position filter takes priority,
+then an explicit advanced rating-role override, otherwise best natural position.
+Its heading states the scoring basis. The same score is used for its numeric
+sorting and active rating limits. Optional position-specific columns are opt-in
+in the column catalogue; they do not replace the canonical search score.
