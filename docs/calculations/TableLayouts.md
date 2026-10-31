@@ -14,3 +14,8 @@ record, preserving previous layouts. Added sorting routes through each player
 list's source sorting before pagination, with unknown values last. Spare width
 is distributed proportionally across visible columns; larger layouts scroll.
 Non-player tables retain only their own applicable columns.
+
+Nationality is the canonical saved nation code in built-in and added columns,
+with the full saved name on hover. Nationality — full name is a separate
+explicit display field. Missing codes stay unknown; no codes are invented.
+Nationality filters/eligibility still use the full source identity, not display text.

@@ -1,3 +1,8 @@
+3.3 RC4 - public release candidate
+- Canonical Nationality column uses the saved nation code consistently across
+  native/added player columns; full name available on hover or as a separate
+  Nationality — full name column. Code sorting aligned across screens.
+
 3.3 RC3 - public release candidate
 - Includes Transfer / Move On with age/headroom-aware positional reviews.
 - Player profiles show best LabLogic and existing regen reference/first-seen flags.
